@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = prasadvdm/vdmproappdock
+        registry = 'prasadvdm/vdmproappdock'
         registryCreds = 'dockercreds'
     }
 
